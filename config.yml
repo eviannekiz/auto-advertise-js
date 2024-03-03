@@ -1,6 +1,6 @@
 default:
   token: 'put your token here'
-  interval: 120 # How many minutes to wait before sending another batch of messages (Default: 60)
+  interval: 121 # How many minutes to wait before sending another batch of messages (Default: 60)
 
   # This setting overrides the 'interval' value set above
   randomize_interval:
@@ -31,5 +31,4 @@ default:
   wait_before_start: 0 # How many minutes to wait before starting the script (Default: 0)
   debug_mode: true # If set to true, you will get a log in the console every time a message is sent (Default: false)
   channels: # Channels where to send the message
-    - 'xxxxxxxxxxxxxxxxxxx'
-    - 'xxxxxxxxxxxxxxxxxxx' # etc
+    - '913974404382326844'
