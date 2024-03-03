@@ -1,6 +1,6 @@
 default:
   token: 'put your token here'
-  interval: 60 # How many minutes to wait before sending another batch of messages (Default: 60)
+  interval: 120 # How many minutes to wait before sending another batch of messages (Default: 60)
 
   # This setting overrides the 'interval' value set above
   randomize_interval:
