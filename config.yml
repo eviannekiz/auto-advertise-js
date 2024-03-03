@@ -1,5 +1,5 @@
 default:
-  token: 'XXTOKEN'
+  
   interval: 121 # How many minutes to wait before sending another batch of messages (Default: 60)
 
   # This setting overrides the 'interval' value set above
